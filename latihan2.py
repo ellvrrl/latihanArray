@@ -4,7 +4,6 @@
 
 import numpy as np
 
-np.random.seed(42) 
 nilaiUjian = np.random.randint(50, 100, size=30)
 
 print(" DATA NILAI UJIAN ASLI ")
